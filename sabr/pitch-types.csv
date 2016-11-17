@@ -1,15 +1,16 @@
-CODE,PITCH-TYPE
-CH,Change-up
-CU,Curveball
-EP,Junkball
-FA,Fastball
+"CODE","PITCH-TYPE"
+CH,"Change-up"
+CU,"Curveball"
+EP,"Junkball"
+FA,"Fastball"
 FC,"Cut Fastbll"
 FF,"4-seam Fastball"
 FS,"Split-finger Fastball"
 FT,"2-seam Fastball"
+IN,"Intentional Ball"
 KC,"Knuckle Curve"
-KN,Knuckleball
-SC,Screwball
-SI,Sinker
-SL,Slider
-UN,Unknown
+KN,"Knuckleball"
+SC,"Screwball"
+SI,"Sinker"
+SL,"Slider"
+UN,"Unknown"
